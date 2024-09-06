@@ -10,7 +10,7 @@ function Hero(props) {
         <p>{props.occupation}</p>
         <p>{props.friends}</p>
         <p>{props.superpowers}</p>
-        <p>{props.info}</p>
+        <div>{props.info}</div>
         <hr />
       </div>
     </div>
