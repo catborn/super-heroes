@@ -1,11 +1,11 @@
 function Hero(props) {
   return (
     <div>
+      <hr />
+      <img src={props.imgLink} alt={props.name} width="500px"></img>
       <div>
-        <div>
-          <label>{props.name}</label>
-          <img src={props.imgLink} alt={props.name}></img>
-        </div>
+        <h2>{props.name}</h2>
+        <hr />
       </div>
     </div>
   );
