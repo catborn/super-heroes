@@ -1,8 +1,7 @@
 function Hero(props) {
   return (
     <div>
-      <hr />
-      <img src={props.imgLink} alt={props.name} width="500px"></img>
+      <img src={props.imgLink} alt={props.name} width="50%"></img>
       <div>
         <h2>{props.name}</h2>
         <p>{props.universe}</p>
