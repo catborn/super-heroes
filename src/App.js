@@ -4,7 +4,7 @@ import Content from "./components/content.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Header />
       <Content />
     </div>
