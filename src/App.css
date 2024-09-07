@@ -20,6 +20,8 @@ img {
 
 .Header {
   text-align: center;
+  border: solid 10px lightskyblue;
+  background-color: lightskyblue;
 }
 
 .App-logo {
