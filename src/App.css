@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: justify;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
@@ -13,10 +13,9 @@ img {
 
 .Card {
   border: solid 10px lightskyblue;
+  background-color: lightblue;
+  padding: 2%;
 }
-/* .Card {
-  grid-area: 1 / 1 / 2 / 4;
-} */
 
 .Header {
   text-align: center;
