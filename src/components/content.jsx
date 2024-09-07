@@ -44,6 +44,66 @@ function Content() {
         superpowers=""
         info=""
       />
+      <Hero
+        name="Капитан Америка"
+        imgLink=""
+        universe=""
+        alterego=""
+        occupation=""
+        friens=""
+        superpowers=""
+        info=""
+      />
+      <Hero
+        name="Тор"
+        imgLink=""
+        universe=""
+        alterego=""
+        occupation=""
+        friens=""
+        superpowers=""
+        info=""
+      />
+      <Hero
+        name="Халк"
+        imgLink=""
+        universe=""
+        alterego=""
+        occupation=""
+        friens=""
+        superpowers=""
+        info=""
+      />
+      <Hero
+        name="Чудо-женщина"
+        imgLink=""
+        universe=""
+        alterego=""
+        occupation=""
+        friens=""
+        superpowers=""
+        info=""
+      />
+      <Hero
+        name="Черная вдова"
+        imgLink=""
+        universe=""
+        alterego=""
+        occupation=""
+        friens=""
+        superpowers=""
+        info=""
+      />
+      <Hero
+        name="Дэдпул"
+        imgLink=""
+        universe=""
+        alterego=""
+        occupation=""
+        friens=""
+        superpowers=""
+        info=""
+      />
     </React.Fragment>
   );
 }
