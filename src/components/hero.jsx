@@ -1,6 +1,6 @@
 function Hero(props) {
   return (
-    <div>
+    <div className="Card">
       <img src={props.imgLink} alt={props.name} width=""></img>
       <div>
         <h2>{props.name}</h2>

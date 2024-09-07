@@ -12,8 +12,11 @@ img {
 }
 
 .Card {
-  grid-area: 1 / 1 / 2 / 4;
+  border: solid 10px lightsalmon;
 }
+/* .Card {
+  grid-area: 1 / 1 / 2 / 4;
+} */
 
 .Header {
   text-align: center;
