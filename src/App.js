@@ -4,9 +4,13 @@ import Content from "./components/content.jsx";
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Content />
+    <div>
+      <div className="Header">
+        <Header />
+      </div>
+      <div className="App">
+        <Content />
+      </div>
     </div>
   );
 }

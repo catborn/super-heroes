@@ -1,7 +1,7 @@
 function Hero(props) {
   return (
     <div>
-      <img src={props.imgLink} alt={props.name} width="50%"></img>
+      <img src={props.imgLink} alt={props.name} width=""></img>
       <div>
         <h2>{props.name}</h2>
         <p>{props.universe}</p>
@@ -10,7 +10,6 @@ function Hero(props) {
         <p>{props.friends}</p>
         <p>{props.superpowers}</p>
         <div>{props.info}</div>
-        <hr />
       </div>
     </div>
   );
